@@ -1,3 +1,3 @@
-![img.png](images/terminal-screencap.png/img.png)
+![img.png](images/terminal-screenshot.png)
 # My Scripts
 ___
