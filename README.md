@@ -25,21 +25,26 @@ ___
 
 ___
 # To-do: Common Tasks
-- Extract Archives & Safely Remove
+- Backup .dotfiles on My Mac
+- Catalog File Locations with Hashes
+- Create Backblaze Backup Summary
+- Create Directory Trees/Manifests
 - Create Local Mirrors of Websites
 - Delete Empty Folders
-- Rename Folders with Rules
-- Backup .dotfiles on My Mac
-- Create Backblaze Backup Summary
-- Catalog File Locations with Hashes
+- Extract Archives & Safely Remove
 - List of Unique Files with rmlint
-- Create Directory Trees/Manifests
+- Rename Folders with Rules
 
 ___
 # To-do: Publish Existing Scripts
 - badvideos.sh
-- rclone-move
+- borgmount
+- exifjson
 - local-move
+- manifest/3
+- rclone-move
+- rcopier/rmover
+- run-exiftool
 
 ___
 ## To-do: Investigate Tools & Improvements
