@@ -1,4 +1,4 @@
-![img.png](images/terminal-screenshot.png)
+![terminal-screenshot](images/terminal-screenshot.png "Header - Terminal Screenshot")
 # My Scripts
 ___
 ## To-do: Tools & Programs
@@ -61,4 +61,3 @@ ___
 2. Shell Script Unit Test Framework - [kward/shunit2](https://github.com/kward/shunit2)
 3. [Command Line Text Processing with GNU Coreutils](https://learnbyexample.github.io/cli_text_processing_coreutils/)
 4. Awesome CLI Apps - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)
-
