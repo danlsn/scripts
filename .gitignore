@@ -142,7 +142,6 @@ cython_debug/
 # Virtualenv
 # http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
 .Python
-[Bb]in
 [Ii]nclude
 [Ll]ib
 [Ll]ib64
@@ -388,7 +387,6 @@ inc/
 # Virtualenv
 # http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
 .Python
-[Bb]in
 [Ii]nclude
 [Ll]ib
 [Ll]ib64
@@ -474,3 +472,4 @@ Temporary Items
 *.orig
 *.tmp
 
+!/bin/
